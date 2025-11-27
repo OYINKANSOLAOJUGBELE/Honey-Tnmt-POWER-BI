@@ -79,7 +79,11 @@ It includes product breakdowns, regional performance, and insights into how demo
 ---
 
 ## 📸 **Dashboard Preview**
-[Dashboard Preview](((https://github.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/blob/main/Honey%20Tnmt%20Dashboard%202.png))
-[Dashboard Preview]((https://github.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/blob/main/Honey%20Tnmt%20Dashboard%202.png))
+    
+    [![Honey Tnmt Sales Dashboard 1](https://raw.githubusercontent.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/main/Honey%20Tnmt%20Dashboard%201.png)](https://github.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/blob/main/Honey%20Tnmt%20Dashboard%201.png)
+    
+    [![Honey Tnmt Sales Dashboard 2](https://raw.githubusercontent.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/main/Honey%20Tnmt%20Dashboard%202.png)](https://github.com/OYINKANSOLAOJUGBELE/Honey-Tnmt-POWER-BI/blob/main/Honey%20Tnmt%20Dashboard%202.png)
+
+* ...The final visualization and interactive reporting were developed using a dynamic Power BI Dashboard to analyze revenue, product trends, and sales team performance.
 
 ```
